@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=takeheartt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeheartt&layout=compact)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=takeheartt/takeheartt&type=Date)](https://star-history.com/#takeheartt/takeheartt&Date)
+
 <!--
 <picture>
   <source
@@ -32,4 +36,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takeheartt&layout=compact&hide_border=true&langs_count=8" />
 </picture>
 -->
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=dGFrZWhlYXJ0dA==#takeheartt/takeheartt&Date" frameBorder="0"></iframe>
+
