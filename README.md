@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=takeheartt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeheartt&layout=compact)
+<!--
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=takeheartt/takeheartt&type=Date)](https://star-history.com/#takeheartt/takeheartt&Date)
-
+-->
 <!--
 <picture>
   <source
