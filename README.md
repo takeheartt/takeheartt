@@ -51,3 +51,7 @@ Here are some ideas to get you started:
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=takeheartt&theme=default)](https://git.io/streak-stats)
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=THE%20END%20!&reversal=false&section=footer&fontAlignY=61">
+</p>
