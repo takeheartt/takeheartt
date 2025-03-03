@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://github-readme-stats.vercel.app/api?username=takeheartt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeheartt&layout=compact)
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=takeheartt&show_icons=true&hide_border=true&line_height=24&theme=dark"
@@ -29,5 +31,5 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takeheartt&layout=compact&hide_border=true&langs_count=8" />
 </picture>
-
+-->
 
