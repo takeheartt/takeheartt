@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=takeheartt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeheartt&layout=compact)
+![Ciscobug's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=takeheartt&layout=compact&hide_border=true&langs_count=10)
+
