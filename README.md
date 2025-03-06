@@ -46,9 +46,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takeheartt&show_icons=true&include_all_commits=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeheartt&layout=compact)](https://github.com/takeheartt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeheartt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/takeheartt?tab=repositories"><img height="195" src="https://github-readme-stats-govin.vercel.app/api/top-langs/?username=takeheartt&layout=compact&count_private=true" alt="takeheartt's github stats" /></a>
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=takeheartt&theme=default)](https://git.io/streak-stats)
